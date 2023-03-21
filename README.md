@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tobilobaomotola
-- 👀 I’m interested in ...programming 
-- 🌱 I’m currently learning ...SQL,python and R
+- 👀 I’m interested in ...Data Analyses
+- 🌱 I’m currently learning ... Excel,SQL and power BI
 - 💞️ I’m looking to collaborate on ...GitHub, kaggle
-- 📫 How to reach me ...Twitter
+- 📫 How to reach me ...Linkedin
 
 <!---
 tobilobaomotola/tobilobaomotola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
