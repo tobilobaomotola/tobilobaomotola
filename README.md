@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tobilobaomotola
-- 👀 I’m interested in ...Data Analytics, Product Management
-- 🌱 I’m currently learning ... Excel,SQL and power BI
-- 💞️ I’m looking to collaborate on ...GitHub, kaggle
+- 👀 A Product Manager
 - 📫 How to reach me ...Linkedin
 
 <!---
